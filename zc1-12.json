@@ -1,0 +1,10 @@
+{
+    "homepage":"https://www.curseforge.com/minecraft/mc-mods/zerocore",
+    "promos":{
+        "1.12.2-latest":"0.1.2.9",
+        "1.12.2-recommended":"0.1.2.9"
+    },
+    "1.12.2":{
+        "0.1.2.9":""
+    }
+}
